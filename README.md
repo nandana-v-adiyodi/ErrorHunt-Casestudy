@@ -1,1 +1,0 @@
-# ErrorHunt-Casestudy
